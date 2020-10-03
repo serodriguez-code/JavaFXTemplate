@@ -1,0 +1,1 @@
+Plantilla para la creación de proyectos JavaFX con Maven
