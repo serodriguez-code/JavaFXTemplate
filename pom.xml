@@ -4,18 +4,18 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>dad.javaFX</groupId>
-	<artifactId>JavaFXTemplate</artifactId>
+	<groupId>dad.NOMBRE</groupId>
+	<artifactId>NOMBRE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>JavaFXTemplate</name>
-	<description>Plantilla para proyectos JavaFX</description>
+	<name>NOMBRE</name>
+	<description>DESCRIPCION</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.target>14</maven.compiler.target>
 		<maven.compiler.source>14</maven.compiler.source>
-		<exec.mainClass>dad.javaFX.template.Main</exec.mainClass>
+		<exec.mainClass>dad.NOMBRE.app.Main</exec.mainClass>
 	</properties>
 
 	<dependencies>
