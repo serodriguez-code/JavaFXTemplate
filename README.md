@@ -1,5 +1,10 @@
-Plantilla para la creación de proyectos JavaFX con Maven para Eclipse.
+Plantilla para proyectos JavaFX con Maven
+    -Implementa Modelo Vista Controlador
+    -La vista es implementada con un fichero fxml
 
-    Tras clonar la plantilla al repositorio local hay que modificar manualmente el parametro name del .project 
-    (Si no aparece en el explorer de eclipse solo hay que arrastrar el archivo encima) por el nombre del proyecto nuevo,
-    igual que los parámetros del <artifactId>, <name> y <exec.mainClass> del pom.xml
+Instrucciones de uso:
+    -Cambiar el nombre de los paquetes donde se marca con nombre
+    -Cambiar los elementos definidos en el pom.xml con NOMBRE(nombre del proyecto) y DESCRIPCION
+    -Cambiar el elemento definido en .classpath con NOMBRE(nombre del proyecto)
+    -Cambiar el título del primaryStage en App.java
+    -El archivo FXML extiende de VBox por defecto, cambiar en caso de que sea necesario
