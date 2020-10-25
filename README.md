@@ -5,6 +5,6 @@
 #### Instrucciones de uso:
 - Cambiar el nombre de los paquetes donde se marca con nombre
 - Cambiar los elementos definidos en el pom.xml con **NOMBRE** _(nombre del proyecto)_ y **DESCRIPCION**
-- Cambiar el elemento definido en .classpath con **NOMBRE** _(nombre del proyecto)_
+- Cambiar el elemento definido en .project con **NOMBRE** _(nombre del proyecto)_
 - Cambiar el título del primaryStage en App.java
 - El archivo FXML extiende de VBox por defecto, cambiar en caso de que sea necesario
